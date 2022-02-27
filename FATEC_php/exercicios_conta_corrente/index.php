@@ -18,7 +18,7 @@ and open the template in the editor.
         require_once './ContaCorrenteEspecial.php'; // Inclui a classe ContaCorrenteEspecial
         /*
           $cntCorr = new ContaCorrente('7768-4', '11229-8'); //Instancia um objeto da classe ContaCorrente
-          //$cntCorr->setAgencia('7768-4'); //Atribui a Angência
+          //$cntCorr->setAgencia('7768-4'); //Atribui a Agência
           // $cntCorr->setConta('11229-8'); //Atribui o número da conta
           $cntCorr->setSaldo(0.0); //Saldo inicial
 
